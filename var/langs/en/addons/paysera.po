@@ -1,0 +1,21 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::paysera"
+msgid "Paysera Gateway"
+msgstr "Paysera Gateway"
+
+msgctxt "Addons::description::paysera"
+msgid "Paysera payment gateway integration for CS-Cart 4.10.x - 4.13.x"
+msgstr "Paysera payment gateway integration for CS-Cart 4.10.x - 4.13.x"
+
+msgctxt "Languages::paysera_project_id"
+msgid "Paysera Project ID"
+msgstr "Paysera Project ID"
+
+msgctxt "Languages::paysera_sign"
+msgid "Paysera Sign"
+msgstr "Paysera Sign"

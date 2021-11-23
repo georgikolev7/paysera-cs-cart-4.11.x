@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<addon scheme="3.0" edition_type="ROOT,ULT:VENDOR">
+    <id>paysera</id>
+    <version>1.0</version>
+    <default_language>en</default_language>
+    <priority>100</priority>
+    <status>active</status>
+    <name>Paysera</name>
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <has_icon>Y</has_icon>
+
+    <functions>
+        <item for="install">fn_paysera_install_payment_processors</item>
+        <item for="uninstall">fn_paysera_remove_payment_processors</item>
+    </functions>
+</addon>
